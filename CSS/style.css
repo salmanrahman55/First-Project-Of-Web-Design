@@ -1,0 +1,58 @@
+body {margin: 0px;
+}
+
+
+
+
+.container 
+{margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.logo{
+    width: 150px;
+}
+.logo a img{
+    width: 100%;
+}
+
+.navigation_wrapper{
+    background-color: #96967a;
+    padding-top: 11px;
+    padding-bottom: 12px;
+}
+
+.nav_wrapper nav ul {
+    padding: 0;
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+
+}
+
+
+.nav_wrapper nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: poppins;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 22px;
+    /* letter spacing: 0.5 em */
+}
+
+/* hero section start */
+.main_img_wrapper {
+    width: 1200px;
+}
+.main_img_wrapper img {
+    width: 100%;
+}
